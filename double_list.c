@@ -1,7 +1,7 @@
 
-/* circular doubly linked list, BST implementation
-    * created by Gilbert Vincenta May 2018
-        */
+/* circular doubly linked list
+* created by Gilbert Vincenta May 2018
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
